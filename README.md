@@ -20,7 +20,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Completely hidden top Windows taskbar
 
 ## Windhawk Mods List
-- [Lockscreen Styler](.Mods/Lockscreen.txt) (Fork Windows 11 Start menu styler and change all the includes to LockApp.exe)
+- [Lockscreen Styler](./Mods/Lockscreen.txt) (Fork Windows 11 Start menu styler and change all the includes to LockApp.exe)
 
 ## Feature Status
 | Name                      | Status                        |
