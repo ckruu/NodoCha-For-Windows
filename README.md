@@ -12,7 +12,6 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 ![Screenshots](./other.png)
 
 # Feature List
-|---------------------------|-------------------------------|
 | Name                      | Status                        |
 |---------------------------|-------------------------------|
 | Basic Colors              |🟢 Third Party apps only       |
@@ -20,4 +19,3 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 | Websites (Stylus)         |🟡 Partial                     |
 | Windows UI                |🟡 Partial                     |
 | Custom Theme (msstyles)   |🔴 Not yet implemented         |
-|---------------------------|-------------------------------|
