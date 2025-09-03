@@ -5,11 +5,11 @@ A specially crafted port of the NodoCha theme, designed for use on Windows.
 NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha tones, blended with inspiration from my favorite K-ON!! character, Manabe Nodoka.
 
 # Screenshots
-![Screenshots](./lockscreen.png)
-![Screenshots](./desktop.png)
-![Screenshots](./terminal.png)
-![Screenshots](./apps.png)
-![Screenshots](./other.png)
+![Screenshots](./Screenshots/Lockscreen.png)
+![Screenshots](./Screenshots/Desktop.png)
+![Screenshots](./Screenshots/Terminal.png)
+![Screenshots](./Screenshots/Apps.png)
+![Screenshots](./Screenshots/Other.png)
 
 # Feature List
 | Name                      | Status                        |
