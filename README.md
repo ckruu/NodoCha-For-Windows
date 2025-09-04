@@ -20,7 +20,16 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Completely hidden top Windows taskbar
 
 ## Windhawk Mods List
-- [Lockscreen Styler](./Mods/Lockscreen.txt) (Fork Windows 11 Start menu styler and change all the includes to LockApp.exe)
+- Lock Screen Styler - [Config](./Mods/Lockscreen.txt) (Fork Windows 11 Start menu styler and change all the includes to LockApp.exe)
+- Customize Windows Notification Placement - [Config](./Mods/Notification.txt) 
+- Disable Rounded Corners in Windows 11
+- No Focus Rectangle
+- Taskbar Height and Icon Size
+- Taskbar on Top For Windows 11
+- Taskbar Tray Icons Tweak
+- Windows 11 Notification Center Styler
+- Windows 11 Start Menu Styler
+- Windows 11 Taskbar Styler
 
 ## Feature Status
 | Name                      | Status                        |
