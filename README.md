@@ -18,6 +18,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 ### Lockscreen Styler
 ![Lockscreen Left](./Mod%20Previews/Left-lock.png)
 - [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt)
+
 ![Lockscreen Right](./Mod%20Previews/Left-right.png)
 - [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
 >**Note:** Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
@@ -27,7 +28,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - [⚙️ Config](./Mods/notification.txt)
 
 ### Start Menu Styler
-![Start Menu](./Screenshots/Start-menu.png)
+![Start Menu](./Mod%20Previews/Start-menu.png)
 - [⚙️ Config](./Mods/start.txt) 
 >**Note:** This will deisable your start menu, but not the windows key and the search bar
 
