@@ -1,0 +1,27 @@
+/* user settings */
+:root {
+    --font-family: "DM Mono", monospace, !important
+    --font-size: 14px;
+    --font-weight: 400; /* 200 : 900 */
+    --line-height: 1.2;
+
+    --font-size-lyrics: 5em; /* 1.5em (default) */ !important
+
+    --font-family-header: "asciid";
+    --font-size-multiplier-header: 4;
+
+    --display-card-image: block; /* none | block */
+    --display-coverart-image: none; /* none | block */
+    --display-header-image: none; /* none | block */
+    --display-sidebar-image: block; /* none | block */
+    --display-tracklist-image: none; /* none | block */
+    --display-spicetify-banner-ascii: block; /* none | block */
+    --display-music-banner-ascii: none; /* none | block */
+
+    --border-radius: 0px;
+    --border-width: 1px;
+    --border-style: solid; /* dotted | dashed | solid | double | groove | ridge | inset | outset */
+    --border-transition: 0.2s ease; /* 'none' to disable  */
+
+    --global-nav-margin-top: 4px /* set to '0px' if you disabled window controls */ !important
+}

@@ -6,7 +6,7 @@ A specially crafted port of the NodoCha theme, designed for use on Windows.
 NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha tones, blended with inspiration from my favorite K-ON!! character, Manabe Nodoka.
 
 ## Navigation
-[Windhawk Mods](#windhawk-mods-lists-and-previews)
+[Windhawk Mods](#windhawk-mods-lists-and-previews) [Third Party App Themes](#third-party-apps-themes) [Stylus Config](#windhawk-mods-lists-and-previews) [Static Wallpapers](#windhawk-mods-lists-and-previews) [Animated Wallpapers](#windhawk-mods-lists-and-previews) [Feature Status](#windhawk-mods-lists-and-previews)
 
 ## Feature List
 - Matching YASB and GlazeWM Theme
@@ -34,6 +34,21 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Disable Rounded Corners in Windows 11
 - No Focus Rectangle
 - Taskbar on Top For Windows 11
+
+## Third Party Apps Themes
+![YASB](./Third%20Party%20Apps/Screenshots/YASB.png)
+- [YASB](https://github.com/amnweb/yasb) [⚙️ Config](./Third%20Party%20Apps/yasb/config.yaml) [⚙️ Styles](./Third%20Party%20Apps/yasb/styles.css)
+![Shell](./Third%20Party%20Apps/Screenshots/shell.png)
+- [Nilesoft Shell](https://nilesoft.org/) [⚙️ Config](./Third%20Party%20Apps/theme.nss)
+![System24](./Third%20Party%20Apps/Screenshots/vancord.png)
+- Modified theme from [System24](https://github.com/refact0r/system24) [Vencord](https://vencord.dev/) theme
+![Spicetify](./Third%20Party%20Apps/Screenshots/spicetify.png)
+- [Spicetify](https://spicetify.app/) with [Text Theme](https://github.com/spicetify/spicetify-themes/tree/master/text) [⚙️ Config](./Third%20Party%20Apps/spice-main.txt) [⚙️ Custom CSS Addon](./Third%20Party%20Apps/spice-css.txt)
+- Telegram Desktop (Work in Progress)
+![VSCode](./Third%20Party%20Apps/Screenshots/vscode.png)
+- [Visual Studio Code](https://code.visualstudio.com/) [⚙️ Theme](./Third%20Party%20Apps/NodoCha.json)
+![Winterm](./Third%20Party%20Apps/Screenshots/winterm.png)
+- Windows Terminal Scheme [⚙️ Config](./Third%20Party%20Apps/winterm.txt)
 
 ## Feature Status
 | Name                      | Status                        |
