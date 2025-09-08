@@ -5,6 +5,9 @@ A specially crafted port of the NodoCha theme, designed for use on Windows.
 # What is NodoCha?
 NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha tones, blended with inspiration from my favorite K-ON!! character, Manabe Nodoka.
 
+## Navigation
+[Windhawk Mods](#windhawk-mods-lists-and-previews)
+
 ## Feature List
 - Matching YASB and GlazeWM Theme
 - Themed Windows UI such as Notification Toast, Notification center, etc
@@ -14,7 +17,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Completely hidden top Windows taskbar
 - Stylized Lockscreen
 
-## Windhawk Mods Lists & Previews
+## Windhawk Mods Lists and Previews
 ![Lockscreen](./Mod%20Previews/Lockscreens.png)
 - Lockscreen Left Aligned [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt)
 - Lockscreen Right Aligned [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
