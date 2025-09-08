@@ -5,13 +5,6 @@ A specially crafted port of the NodoCha theme, designed for use on Windows.
 # What is NodoCha?
 NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha tones, blended with inspiration from my favorite K-ON!! character, Manabe Nodoka.
 
-## Screenshots
-![Lockscreen](./Screenshots/Lockscreen.png)
-![Desktop](./Screenshots/Desktop.png)
-![Terminal](./Screenshots/Terminal.png)2
-![Apps](./Screenshots/Apps.png)
-![Other](./Screenshots/Other.png)
-
 ## Feature List
 - Matching YASB and GlazeWM Theme
 - Themed Windows UI such as Notification Toast, Notification center, etc
