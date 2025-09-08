@@ -5,11 +5,11 @@ A specially crafted port of the NodoCha theme, designed for use on Windows.
 NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha tones, blended with inspiration from my favorite K-ON!! character, Manabe Nodoka.
 
 ## Screenshots
-![Screenshots](./Screenshots/Lockscreen.png)
-![Screenshots](./Screenshots/Desktop.png)
-![Screenshots](./Screenshots/Terminal.png)
-![Screenshots](./Screenshots/Apps.png)
-![Screenshots](./Screenshots/Other.png)
+![Lockscreen](./Screenshots/Lockscreen.png)
+![Desktop](./Screenshots/Desktop.png)
+![Terminal](./Screenshots/Terminal.png)2
+![Apps](./Screenshots/Apps.png)
+![Other](./Screenshots/Other.png)
 
 ## Feature List
 - Matching YASB and GlazeWM Theme
@@ -18,18 +18,41 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Themed Windows Lockscreen
 - Start Menu completely disabled
 - Completely hidden top Windows taskbar
+- Stylized Lockscreen
 
-## Windhawk Mods List
-- Lock Screen Styler - [Config](./Mods/Lockscreen.txt) (Fork Windows 11 Start menu styler and change all the includes to LockApp.exe)
-- Customize Windows Notification Placement - [Config](./Mods/Notification.txt) 
+## Windhawk Mods Lists & Previews
+### Lockscreen Styler
+![Lockscreen Left](./Screenshots/Left-lock.png)
+![Lockscreen Right](./Screenshots/Right-lock.png)
+- [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt) [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
+Note: Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
+
+### Notification Center Styler
+![Notifications](./Screenshots/Notification-center.png)
+- [⚙️ Config](./Mods/notification.txt)
+
+### Start Menu Styler
+![Start Menu](./Screenshots/Start-menu.png)
+- [⚙️ Config](./Mods/start.txt) 
+Note: This will deisable your start menu, but not the windows key and the search bar
+
+### Taskbar Styler
+![Taskbar](./Screenshots/Taskbar.png)
+- [⚙️ Config](./Mods/taskbar.txt) 
+Note: This will make your taskbar invisible
+
+### Notification Placement
+![Notification](./Screenshots/Notifications.png)
+- [⚙️ Config](./Mods/Notification.txt) 
+
+### Taskbar Height and Icon Size
+- [⚙️ Config](./Mods/taskbariconsize.txt)
+Note: This will make your taskbar icons 1x1 by size while keeping the tray section to be still clickable
+
+### Other Mods
 - Disable Rounded Corners in Windows 11
 - No Focus Rectangle
-- Taskbar Height and Icon Size
 - Taskbar on Top For Windows 11
-- Taskbar Tray Icons Tweak
-- Windows 11 Notification Center Styler
-- Windows 11 Start Menu Styler
-- Windows 11 Taskbar Styler
 
 ## Feature Status
 | Name                      | Status                        |
