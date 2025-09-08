@@ -36,17 +36,24 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Taskbar on Top For Windows 11
 
 ## Third Party Apps Themes
+#### YASB
 ![YASB](./Third%20Party%20Apps/Screenshots/YASB.png)
 - [YASB](https://github.com/amnweb/yasb) [⚙️ Config](./Third%20Party%20Apps/yasb/config.yaml) [⚙️ Styles](./Third%20Party%20Apps/yasb/styles.css)
+#### Nilesoft Shell
 ![Shell](./Third%20Party%20Apps/Screenshots/shell.png)
 - [Nilesoft Shell](https://nilesoft.org/) [⚙️ Config](./Third%20Party%20Apps/theme.nss)
+#### Vencord
 ![System24](./Third%20Party%20Apps/Screenshots/vancord.png)
 - Modified theme from [System24](https://github.com/refact0r/system24) [Vencord](https://vencord.dev/) theme
+#### Spicetify
 ![Spicetify](./Third%20Party%20Apps/Screenshots/spicetify.png)
 - [Spicetify](https://spicetify.app/) with [Text Theme](https://github.com/spicetify/spicetify-themes/tree/master/text) [⚙️ Config](./Third%20Party%20Apps/spice-main.txt) [⚙️ Custom CSS Addon](./Third%20Party%20Apps/spice-css.txt)
+#### Telegram Desktop
 - Telegram Desktop (Work in Progress)
+#### Visual Studio Code
 ![VSCode](./Third%20Party%20Apps/Screenshots/vscode.png)
 - [Visual Studio Code](https://code.visualstudio.com/) [⚙️ Theme](./Third%20Party%20Apps/NodoCha.json)
+#### Windows Terminal
 ![Winterm](./Third%20Party%20Apps/Screenshots/winterm.png)
 - Windows Terminal Scheme [⚙️ Config](./Third%20Party%20Apps/winterm.txt)
 
