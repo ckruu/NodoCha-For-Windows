@@ -20,10 +20,11 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt)
 - [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
 > Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
+
 ![Windhawk mods](./Mod%20Previews/mods-banner.png)
-- [⚙️ Config](./Mods/notification.txt)
-- [⚙️ Config](./Mods/start.txt) (This will disable your start menu, but not the windows key and the search bar)
-- [⚙️ Config](./Mods/taskbar.txt) (This will make your taskbar invisible)
+- Windows 11 Notification Styler [⚙️ Config](./Mods/notification.txt)
+- Windows 11 Start Menu Styler [⚙️ Config](./Mods/start.txt) (This will disable your start menu, but not the windows key and the search bar)
+- Windows 11 Taskbar Styler [⚙️ Config](./Mods/taskbar.txt) (This will make your taskbar invisible)
 - Notification Placement [⚙️ Config](./Mods/placement.txt)
 - Taskbar Height and Icon Size [⚙️ Config](./Mods/taskbariconsize.txt) (This will make your taskbar invisible)
 
