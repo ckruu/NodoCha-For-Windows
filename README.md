@@ -24,7 +24,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 >**Note:** Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
 
 ### Notification Center Styler
-![Notifications](./Mod%20Previews/Notifications.png)
+![Notifications](./Mod%20Previews/Notification.png)
 - [⚙️ Config](./Mods/notification.txt)
 
 ### Start Menu Styler
