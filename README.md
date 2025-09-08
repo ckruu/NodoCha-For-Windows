@@ -8,10 +8,10 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 ## Navigation
 - [🦅 Windhawk Mods](#windhawk-mods-lists-and-previews) 
 - [🪟 Third Party App Themes](#third-party-apps-themes)
-- [🖌️ Stylus Config](#windhawk-mods-lists-and-previews)
-- [🖼️ Static Wallpapers](#windhawk-mods-lists-and-previews)
-- [📼 Animated Wallpapers](#windhawk-mods-lists-and-previews)
-- [📊 Feature Status](#windhawk-mods-lists-and-previews)
+- [🖌️ Stylus Config](#stylus-config)
+- [🖼️ Static Wallpapers](#static-wallpapers)
+- [📼 Animated Wallpapers](#animated-wallpapers)
+- [📊 Feature Status](#feature-status)
 
 ## Feature List
 - Matching YASB and GlazeWM Theme
@@ -61,6 +61,24 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 #### Terminal
 ![Winterm](./Third%20Party%20Apps/Screenshots/winterm.png)
 - Windows Terminal with custom color scheme [⚙️ Config](./Third%20Party%20Apps/winterm.txt)
+
+## Stylus Config
+- Unavailable at the moment...
+
+## Static Wallpapers
+![1](./Static%20Wallpapers/NodoBlush.png)
+![2](./Static%20Wallpapers/Nodoka%20Isolated.png)
+![3](./Static%20Wallpapers/NodoShop.png)
+![4](./Static%20Wallpapers/NodoStrawberry.png)
+![5](./Static%20Wallpapers/NodoStudy.png)
+![6](./Static%20Wallpapers/NodoWinter%20Isolated.png)
+![7](./Static%20Wallpapers/NodoWinter.png)
+![8](./Static%20Wallpapers/NodoWrite%20L%20LS.png)
+![9](./Static%20Wallpapers/NodoWrite%20R%20LS.png)
+
+## Animated Wallpapers
+![1](./Animated%20Wallpapers/NodoBlush.mp4)
+![2](./Animated%20Wallpapers/NodoStudy.mp4)
 
 ## Feature Status
 | Name                      | Status                        |
