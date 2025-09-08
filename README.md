@@ -17,13 +17,13 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 ## Windhawk Mods Lists & Previews
 ### Lockscreen Styler
 ![Lockscreen Left](./Mod%20Previews/Left-lock.png)
-![Lockscreen Right](./Mod%20Previews/Left-right.png)
 - [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt)
+![Lockscreen Right](./Mod%20Previews/Left-right.png)
 - [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
 >**Note:** Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
 
 ### Notification Center Styler
-![Notifications](./Screenshots/Notification-center.png)
+![Notifications](./Mod%20Previews/Notifications.png)
 - [⚙️ Config](./Mods/notification.txt)
 
 ### Start Menu Styler
