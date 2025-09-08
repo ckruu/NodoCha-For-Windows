@@ -16,34 +16,16 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 
 ## Windhawk Mods Lists & Previews
 ### Lockscreen Styler
-![Lockscreen Left](./Mod%20Previews/Left-lock.png)
+![Lockscreen](./Mod%20Previews/Lockscreens.png)
 - [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt)
-
-![Lockscreen Right](./Mod%20Previews/Left-right.png)
 - [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
->**Note:** Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
-
-### Notification Center Styler
-![Notifications](./Mod%20Previews/Notification.png)
+> Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
+![Windhawk mods](./Mod%20Previews/mods-banner.png)
 - [⚙️ Config](./Mods/notification.txt)
-
-### Start Menu Styler
-![Start Menu](./Mod%20Previews/Start-menu.png)
-- [⚙️ Config](./Mods/start.txt) 
->**Note:** This will deisable your start menu, but not the windows key and the search bar
-
-### Taskbar Styler
-![Taskbar](./Screenshots/Taskbar.png)
-- [⚙️ Config](./Mods/taskbar.txt) 
->**Note:** This will make your taskbar invisible
-
-### Notification Placement
-![Notification](./Screenshots/Notifications.png)
-- [⚙️ Config](./Mods/Notification.txt) 
-
-### Taskbar Height and Icon Size
-- [⚙️ Config](./Mods/taskbariconsize.txt)
->**Note:** This will make your taskbar icons 1x1 by size while keeping the tray section to be still clickable
+- [⚙️ Config](./Mods/start.txt) (This will disable your start menu, but not the windows key and the search bar)
+- [⚙️ Config](./Mods/taskbar.txt) (This will make your taskbar invisible)
+- Notification Placement [⚙️ Config](./Mods/placement.txt)
+- Taskbar Height and Icon Size [⚙️ Config](./Mods/taskbariconsize.txt) (This will make your taskbar invisible)
 
 ### Other Mods
 - Disable Rounded Corners in Windows 11
