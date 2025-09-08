@@ -1,4 +1,5 @@
 # NodoCha For Windows
+![Banner](./Images/Banner.png)
 A specially crafted port of the NodoCha theme, designed for use on Windows.
 
 # What is NodoCha?
