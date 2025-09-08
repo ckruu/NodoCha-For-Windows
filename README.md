@@ -19,7 +19,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 ![Lockscreen Left](./Screenshots/Left-lock.png)
 ![Lockscreen Right](./Screenshots/Right-lock.png)
 - [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt) [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
-Note: Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
+- Note: Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
 
 ### Notification Center Styler
 ![Notifications](./Screenshots/Notification-center.png)
@@ -28,12 +28,12 @@ Note: Fork Windows 11 Start menu styler and change all the includes to LockApp.e
 ### Start Menu Styler
 ![Start Menu](./Screenshots/Start-menu.png)
 - [⚙️ Config](./Mods/start.txt) 
-Note: This will deisable your start menu, but not the windows key and the search bar
+> **Note:** This will deisable your start menu, but not the windows key and the search bar
 
 ### Taskbar Styler
 ![Taskbar](./Screenshots/Taskbar.png)
 - [⚙️ Config](./Mods/taskbar.txt) 
-Note: This will make your taskbar invisible
+- Note: This will make your taskbar invisible
 
 ### Notification Placement
 ![Notification](./Screenshots/Notifications.png)
@@ -41,7 +41,7 @@ Note: This will make your taskbar invisible
 
 ### Taskbar Height and Icon Size
 - [⚙️ Config](./Mods/taskbariconsize.txt)
-Note: This will make your taskbar icons 1x1 by size while keeping the tray section to be still clickable
+- Note: This will make your taskbar icons 1x1 by size while keeping the tray section to be still clickable
 
 ### Other Mods
 - Disable Rounded Corners in Windows 11
