@@ -77,8 +77,8 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 ![9](./Static%20Wallpapers/NodoWrite%20R%20LS.png)
 
 ## Animated Wallpapers
-![1](./Animated%20Wallpapers/NodoBlush.mp4)
-![2](./Animated%20Wallpapers/NodoStudy.mp4)
+[NodoBlush](./Animated%20Wallpapers/NodoBlush.mp4) [📽️ Preview](https://youtu.be/ORswXadinDA)
+[NodoStudy](./Animated%20Wallpapers/NodoStudy.mp4) [📽️ Preview](https://youtu.be/rea5ViQqGK4)
 
 ## Feature Status
 | Name                      | Status                        |
