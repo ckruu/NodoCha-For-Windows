@@ -14,7 +14,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - [📊 Feature Status](#feature-status)
 
 ## Feature List
-- Matching YASB and GlazeWM Theme
+- Matching themes across apps and bars
 - Themed Windows UI such as Notification Toast, Notification center, etc
 - Animated Wallpaper and Static Wallpaper
 - Themed Windows Lockscreen
@@ -29,16 +29,18 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 > Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
 
 ![Windhawk mods](./Mod%20Previews/mods-banner.png)
-- Windows 11 Notification Styler [⚙️ Config](./Mods/notification.txt)
+- Windows 11 Notification Center Styler [⚙️ Config](./Mods/notification.txt)
 - Windows 11 Start Menu Styler [⚙️ Config](./Mods/start.txt) (This will disable your start menu, but not the search bar)
 - Windows 11 Taskbar Styler [⚙️ Config](./Mods/taskbar.txt) (This will make your taskbar invisible)
 - Notification Placement [⚙️ Config](./Mods/placement.txt)
 - Taskbar Height and Icon Size [⚙️ Config](./Mods/taskbariconsize.txt) (This will make your taskbar invisible)
 
 ### Other Mods
+- Remove Command Bar
 - Disable Rounded Corners in Windows 11
 - No Focus Rectangle
 - Taskbar on Top For Windows 11
+- Taskbar Tray System Icon Tweaks
 
 ## Third Party Apps Themes
 #### Bar
