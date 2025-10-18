@@ -43,20 +43,22 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Taskbar Tray System Icon Tweaks
 
 ## Third Party Apps Themes
+#### GlazeWM
+A custom [GlazeWM](https://github.com/glzr-io/glazewm) [Config](./Third%20Party%20Apps/glazewm/config.yaml)
 #### Bar
 ![YASB](./Third%20Party%20Apps/Screenshots/YASB.png)
 - [YASB](https://github.com/amnweb/yasb) with custom [⚙️ Config](./Third%20Party%20Apps/yasb/config.yaml) and [⚙️ Styles](./Third%20Party%20Apps/yasb/styles.css)
+#### Tacky-borders
+[Tacky Borders](https://github.com/lukeyou05/tacky-borders) - A custom border for Windows 11, with a custom [Config](./Third%20Party%20Apps/tacky-borders/config.yaml)
 #### Shell
 ![Shell](./Third%20Party%20Apps/Screenshots/shell.png)
 - [Nilesoft Shell](https://nilesoft.org/) with custom [⚙️ Styles](./Third%20Party%20Apps/theme.nss)
 #### Discord
 ![System24](./Third%20Party%20Apps/Screenshots/vancord.png)
-- Modified theme from [System24](https://github.com/refact0r/system24) with [Vencord](https://vencord.dev/) theme
+- Modified theme from [System24](https://github.com/refact0r/system24) with [Vencord](https://vencord.dev/) theme using a Custom [Config](./Third%20Party%20Apps/system24/NodoCha%20System24.css)
 #### Spotify
 ![Spicetify](./Third%20Party%20Apps/Screenshots/spicetify.png)
 - [Spicetify](https://spicetify.app/) with [Text Theme](https://github.com/spicetify/spicetify-themes/tree/master/text) [⚙️ Config](./Third%20Party%20Apps/spice-main.txt) [⚙️ Custom CSS Addon](./Third%20Party%20Apps/spice-css.txt)
-#### Telegram Desktop
-- (Work in Progress)
 #### Visual Studio Code
 ![VSCode](./Third%20Party%20Apps/Screenshots/vscode.png)
 - [Visual Studio Code](https://code.visualstudio.com/) with custom [⚙️ Theme](./Third%20Party%20Apps/NodoCha.json)
@@ -65,7 +67,7 @@ NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha
 - Windows Terminal with custom color scheme [⚙️ Config](./Third%20Party%20Apps/winterm.txt)
 
 ## Stylus Config
-- Unavailable at the moment...
+Get stylus from [Chromium-based Browsers](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) and then get the [Config](./Stylus/NodoCha.json)
 
 ## Static Wallpapers
 ![1](./Static%20Wallpapers/NodoBlush.png)

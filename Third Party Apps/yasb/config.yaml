@@ -25,7 +25,7 @@ bars:
       hide_on_fullscreen: true
     dimensions:
       width: "100%"
-      height: 28
+      height: 30
     padding:
       top: 10
       left: 8
@@ -204,8 +204,8 @@ widgets:
     type: "yasb.active_window.ActiveWindowWidget"
     options:
       label: "\ue62a {win[title]}"
-      label_alt: "[class_name='{win[class_name]}' exe='{win[process][name]}' hwnd={win[hwnd]}]"
-      label_no_window: "\ue62a Desktop - Windows Explorer"
+      label_alt: "\ue62a {win[class_name]}"
+      label_no_window: "\ue62a Idle - ABIMA'S ACER"
       label_icon: false
       label_icon_size: 14
       max_length: 30
@@ -239,7 +239,7 @@ widgets:
       label_alt: "\uef37 {%A, %d %B %Y %I:%M:%S %p}"
       timezones: []
       calendar:
-        blur: true
+        blur: false
         show_holidays: true
         direction: down
         alignment: "center"
@@ -275,7 +275,7 @@ widgets:
           on_right: "do_nothing"
           on_middle: "toggle_label"
         menu_config:
-          blur: true
+          blur: false
           round_corners: false
           round_corners_type: "normal"
           border_color: "System"

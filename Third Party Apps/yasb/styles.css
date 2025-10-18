@@ -41,9 +41,13 @@
 	margin: 0;
 }
 .widget {
+    border: 1.5px solid #2c3a39;
     padding: 0 2px;
     margin: 0 2px;
-    border-radius: 2px;
+    border-radius: 0px;
+}
+.widget:hover {
+    border: 1.5px solid #a6e3a1;
 }
 .widget .icon {
     font-size: 18px;
@@ -52,26 +56,29 @@
     color: var(--text);
 }
 QPushButton {
-  outline:none
+    outline: none;
 }
 /*ACTIVE WINDOW WIDGET*/
 .active-window-widget {
     background-color: var(--surface1);
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 8px;
+    padding-left: 8px;
 }
 .active-window-widget .label {
     font-size: 13px;
 }
 .active-window-widget .icon {
     padding-right: 6px;
-    border: none;
+    border: var(--green);
+    border-width: 2px;
 }
 /*CLOCK - CALENDAR WIDGET*/
 .clock-widget {
     background-color: var(--surface1);
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    outline-color: var(--green);
+    outline-width: 11px;
 }
 .clock-widget .label {
     font-size: 14px;
@@ -79,6 +86,8 @@ QPushButton {
 /*CLOCK - CALENDAR WIDGET DROPDOWN*/
 .calendar {
     background-color: var(--surface1);
+    border: 1px solid #2c3a39;
+    border-radius: 0px;
 }
 .calendar .calendar-table,
 .calendar .calendar-table::item {
@@ -120,8 +129,8 @@ QPushButton {
 }
 /*AUDIO WIDGET*/
 .volume-widget {
-    padding-right: 9px;
-    padding-left: 3px;
+    padding-right: 7px;
+    padding-left: 1px;
     background-color: var(--surface1);
 }
 .volume-widget .icon {
@@ -134,6 +143,7 @@ QPushButton {
 }
 /*AUDIO DROPDOWN*/
 .audio-menu {
+    border: 1.5px solid #2c3a39;
     border-radius: 0px;
     background-color: var(--surface1);
 }
@@ -161,7 +171,7 @@ QPushButton {
 /*MEDIA WIDGET*/
 .media-widget {
 	padding: 0;
-    padding-right: 10px;
+    padding-right: 8px;
     background-color: var(--surface1);
 }
 .media-widget .label {
@@ -181,6 +191,7 @@ QPushButton {
     margin: 0;
 }
 .media-menu {
+    border: 1.5px solid #2c3a39;
 	font-family: "JetBrainsMono NFP";
     min-width: 380px;
     max-width: 100px;
@@ -312,10 +323,12 @@ QPushButton {
 	font-family: "JetBrainsMono NFP";
 	color: var(--surface1);
 	border: 4px solid var(--surface1);
+    border: 1.5px solid #2c3a39;
  
 }
 .power-menu-popup .button.hover {
 	background-color: #1e2220;
+    border: 1.5px solid #a6e3a1;
 }
 .power-menu-popup .button .label {
 	margin-bottom: 0px;
@@ -353,8 +366,8 @@ QPushButton {
 /*MEMORY WIDGET*/
 .memory-widget {
     padding: 0;
-    padding-left: 2px;
-    padding-right: 11px;
+    padding-left: 0px;
+    padding-right: 8px;
     background-color: var(--surface1);
 }
 .memory-widget .label {
@@ -385,8 +398,8 @@ QPushButton {
 /*BATTERY WIDGET*/
 .battery-widget {
     padding: 0;
-    padding-left: 6px;
-    padding-right: 11px;
+    padding-left: 4px;
+    padding-right: 10px;
     background-color: var(--surface1);
 }
 .battery-widget .label {
@@ -420,22 +433,11 @@ QPushButton {
     height: 20px;
     width: 16px;
 }
-/*ACTIVE LAYOUT WIDGET*/
-.komorebi-active-layout {
-    padding: 0;
-    padding-left: 3px;
-    padding-right: 3px;
-    background-color: var(--surface1);
-}
-.komorebi-active-layout .label {
-    font-size: 14px;
-    padding-left: 0px;
-}
 /*NOTIFICATIONS*/
 .notification-widget {
     padding: 0px;
-    padding-left: 1px;
-    padding-right: 2px;
+    padding-left: -1px;
+    padding-right: -1px;
     background-color: var(--surface1);
 }
 .notification-widget .icon {
@@ -448,13 +450,12 @@ QPushButton {
 }
 .glazewm-workspaces {
     padding: 0px;
-    padding-left: -2px;
-    padding-right: -5px;
+    padding-left: -4px;
+    padding-right: -7px;
     background: var(--surface1);
 }
 .glazewm-workspaces:hover {
-    border: none !important;
-    box-shadow: none !important;
+    border: 1.5px solid #a6e3a1;
 }
 .glazewm-workspaces .icon .label {
     color: var(--text);
@@ -470,7 +471,7 @@ QPushButton {
 }
 .glazewm-workspaces .ws-btn.active_populated {
     color: var(--surface1);
-    background-color: var(--text);
+    background-color: #B5F2B1;
     border-radius: 1px;
 }
 .glazewm-workspaces .ws-btn.active_empty {
@@ -478,17 +479,20 @@ QPushButton {
     background-color: var(--text);
     border-radius: 1px;
 }
-        /* WIFI Setting */
+/* WIFI Setting */
 .wifi-widget .icon{
     font-size: 15px;
     color: var(--text);
     background: var(--surface1);
-    padding-left: 7px;
+    padding-left: 4px;
     padding-top: 1px;
-    padding-right: 7px;
+    padding-right: 4px;
 }
 .wifi-widget {
 	background: var(--surface1);
+}
+.wifi-widget .wifi-menu:hover {
+    border: 1.5px solid #a6e3a1;
 }
 .wifi-widget .widget-container {
     color: var(--text)
