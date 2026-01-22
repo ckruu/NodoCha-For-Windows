@@ -1,8 +1,8 @@
 # NodoCha For Windows
-A specially crafted port of the NodoCha theme, designed for use on Windows.
+A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-ON!, carefully crafted to match her gentle tone and personality.
 
-# What is NodoCha?
-NodoCha is a Catppuccin-inspired color scheme with soft pastel and earthy matcha tones, blended with inspiration from my favorite K-ON!! character, Manabe Nodoka.
+##Preview
+![desktop]
 
 ## Navigation
 - [🦅 Windhawk Mods](#windhawk-mods-lists-and-previews) 

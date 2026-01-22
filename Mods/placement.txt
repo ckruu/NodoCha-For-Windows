@@ -1,1 +1,0 @@
-{"monitor":1,"monitorInterfaceName":"","horizontalPlacement":"right","horizontalDistanceFromScreenEdge":-6,"verticalPlacement":"top","verticalDistanceFromScreenEdge":-23}
