@@ -1,0 +1,667 @@
+/*VARIABLES AND SOME DEFAULT SETTINGS*/
+:root {
+    --rosewater: #f5e0dc;
+    --flamingo: #f2cdcd;
+    --pink: #f5c2e7;
+    --mauve: #cba6f7;
+    --red: #f38ba8;
+    --maroon: #eba0ac;
+    --peach: #fab387;
+    --yellow: #f9e2af;
+    --green: #a6e3a1;
+    --teal: #94e2d5;
+    --sky: #89dceb;
+    --sapphire: #74c7ec;
+    --blue: #89b4fa;
+    --lavender: #b4befe;
+    --text: #E7FFE5;
+    --subtext1: #bac2de;
+    --subtext0: #a6adc8;
+    --overlay2: #9399b2;
+    --overlay1: #7f849c;
+    --overlay0: #6c7086;
+    --surface2: #585b70;
+    --surface1: #171C1E;
+    --surface0: #313244;
+    --base: #1e1e2e;
+    --mantle: #181825;
+    --crust: #11111b;
+}
+*{
+    font-size: 12px;
+    color: #ebdbb2;
+    font-weight: 600;
+    font-family: "JetBrainsMono NFP";
+    margin: 0;
+    padding: 0;
+}
+/*GENERAL CONFIGRATIONS*/
+.yasb-bar {
+	padding: 0;
+	margin: 0;
+}
+.widget {
+    border: 1.5px solid #2c3a39;
+    padding: 0 2px;
+    margin: 0 2px;
+    border-radius: 0px;
+}
+.widget:hover {
+    border: 1.5px solid #a6e3a1;
+}
+.widget .icon {
+    font-size: 18px;
+}
+.widget .label {
+    color: var(--text);
+}
+QPushButton {
+    outline: none;
+}
+/*ACTIVE WINDOW WIDGET*/
+.active-window-widget {
+    background-color: var(--surface1);
+    padding-right: 8px;
+    padding-left: 8px;
+}
+.active-window-widget .label {
+    font-size: 13px;
+}
+.active-window-widget .icon {
+    padding-right: 6px;
+    border: var(--green);
+    border-width: 2px;
+}
+/*CLOCK - CALENDAR WIDGET*/
+.clock-widget {
+    background-color: var(--surface1);
+    padding-left: 8px;
+    padding-right: 8px;
+    outline-color: var(--green);
+    outline-width: 11px;
+}
+.clock-widget .label {
+    font-size: 14px;
+}
+/*CLOCK - CALENDAR WIDGET DROPDOWN*/
+.calendar {
+    background-color: var(--surface1);
+    border: 1px solid #2c3a39;
+    border-radius: 0px;
+}
+.calendar .calendar-table,
+.calendar .calendar-table::item {
+    background-color: rgba(17, 17, 27, 0);
+    color: #ffffff2d;
+    font-family: 'JetBrainsMono NFP';
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;  
+}
+.calendar .calendar-table::item:selected {
+    color: var(--text);
+    background-color: #ffffff17;
+}
+.calendar .day-label {
+    margin-top: 20px;
+    color: var(--text);
+}
+.calendar .day-label,
+.calendar .month-label,
+.calendar .date-label {
+    font-family: 'JetBrainsMono NFP';
+    font-size: 16px;
+    color: var(--text);
+    font-weight: 700;
+    min-width: 180px;
+    max-width: 180px;
+}
+.calendar .month-label {
+    color: var(--text);
+    font-weight: normal;
+}
+.calendar .date-label {
+    font-size: 88px;
+    font-weight: 900;
+    color: var(--text);;
+    margin-top: -20px;
+}
+/*AUDIO WIDGET*/
+.volume-widget {
+    padding-right: 7px;
+    padding-left: 1px;
+    background-color: var(--surface1);
+}
+.volume-widget .icon {
+    font-size: 14px;
+    padding: 0 6px;
+    color: var(--text);
+}
+.volume-widget .label {
+    font-size: 13px;
+}
+/*AUDIO DROPDOWN*/
+.audio-menu {
+    border: 1.5px solid #2c3a39;
+    border-radius: 0px;
+    background-color: var(--surface1);
+}
+.audio-container .device {
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    padding: 4px 8px 2px 8px;
+    margin: 2px 0;
+    font-size: 12px;
+    border-radius: 0px;
+    color: var(--text);
+}
+.audio-container .device.selected {
+    background-color: #cdd6f41a;
+    border-radius: 0px;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+.audio-container .device:hover {
+    background-color: #cdd6f40c;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+/*MEDIA WIDGET*/
+.media-widget {
+	padding: 0;
+    padding-right: 8px;
+    background-color: var(--surface1);
+}
+.media-widget .label {
+    color: var(--text);
+    font-size: 14px;
+    padding: 0 0px;
+}
+/*sep*/
+.media-widget .icon{
+	font-family: "JetBrainsMono NFP";
+    color: var(--blue);
+    padding: 0 6px;
+}
+.media-widget .btn {
+    color: var(--text);
+    padding: 0 0px;
+    margin: 0;
+}
+.media-menu {
+    border: 1.5px solid #2c3a39;
+	font-family: "JetBrainsMono NFP";
+    min-width: 380px;
+    max-width: 100px;
+    background-color:var(--surface1);
+}
+.media-menu .title {
+    font-size: 15px;
+    color: var(--text);
+    font-weight: 800;
+    margin-left: 16px;
+    margin-top: 4px;
+}
+.media-menu .artist {
+    font-size: 12px;
+    color: #6c7086;
+    margin-bottom: 0px;
+    margin-top: 1px;
+    margin-left: 16px;
+}
+.media-menu .source {
+    font-size: 11px;
+    color: #000;
+    font-weight: normal;
+    border-radius: 3px;
+    background-color: #bac2de;
+    padding: 2px 4px;
+}
+.media-menu .btn {
+    color: var(--text);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px -14px 0px 0px;
+    min-width: 40px;
+    max-width: 40px;
+    min-height: 40px;
+    max-height: 40px;
+    border-radius: 10px;
+}
+.media-menu .btn.prev {
+    margin-left: 10px;
+}
+.media-menu .btn.play {
+    font-size: 18px;
+}
+.media-menu .playback-time {
+    font-size: 10px;
+	font-family: "JetBrainsMono NFP";
+    color: #7f849c;
+    margin-top: 10px;
+    min-width: 120px;
+}
+.media-menu .progress-slider {
+    height: 10px;
+    margin: 0px 3px;
+    border-radius: 3px;
+}
+.media-menu .progress-slider::groove {
+    background: transparent;
+    height: 2px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.1);
+}
+.media-menu .progress-slider::sub-page {
+    background: var(--text);
+    border-radius: 3px;
+    height: 4px;
+}
+/*WALLPAPERS WIDGET*/
+.wallpapers-widget {
+    padding-right: 7px;
+    padding-left: 7px;
+    background-color: var(--surface1);
+}
+/*WALLPAPERS GALLERY*/
+.wallpapers-gallery-window {
+    background-color: var(--mantle);
+    border: 0;
+    margin: 0;
+}
+.wallpapers-gallery-buttons {
+    font-size: 12px;
+    font-family: 'Bahnschrift';
+    background-color:rgba(255, 255, 255, 0);
+    color: white;
+    border: none;
+    font-size: 14px;
+    padding: 8px 0;
+    border-radius: 8px;
+    margin:0 8px 8px 8px;
+    width: 600px;
+}
+.wallpapers-gallery-buttons:hover {
+    background-color:rgba(255, 255, 255, 0.1)
+}
+.wallpapers-gallery-image {
+    border: 4px solid transparent;
+    border-radius: 10px;
+}
+.wallpapers-gallery-image:hover {
+    border: 4px solid rgb(66, 68, 83);
+}
+.wallpapers-gallery-image.focused {
+    border: 4px solid #89b4fa;
+}
+/*POWER WIDGET*/
+.power-menu-widget {
+    padding-right: 7px;
+    padding-left: 7px;
+    background-color: var(--surface1);
+}
+.power-menu-widget .label {
+	color: var(--text);
+    font-size: 15px;
+}
+/*POWER MENU POPUP*/
+.uptime {
+	font-size: 13px;
+	margin-bottom: 10px;
+	color: var(--text);
+	font-weight: 800;
+	font-family: "JetBrainsMono NFP";
+}
+.power-menu-popup .button {
+	padding: 0;
+	width: 180px;
+	height: 60px;
+	border-radius: 4px;
+	background-color: var(--surface1);
+	font-family: "JetBrainsMono NFP";
+	color: var(--surface1);
+	border: 4px solid var(--surface1);
+    border: 1.5px solid #2c3a39;
+ 
+}
+.power-menu-popup .button.hover {
+	background-color: #1e2220;
+    border: 1.5px solid #a6e3a1;
+}
+.power-menu-popup .button .label {
+	margin-bottom: 0px;
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--text);
+	font-family: "JetBrainsMono NFP";
+}
+.power-menu-popup .button .icon {
+	font-size: 25px;
+	padding-top: 10px;
+	color: var(--text);
+}
+.power-menu-popup .button.cancel .label {
+	color: var(--text);
+}
+.power-menu-popup .button.shutdown .label {
+	color: var(--red);
+}
+.power-menu-popup .button.restart .label {
+	color: var(--green);
+}
+.power-menu-popup .button.hibernate .label {
+	color: var(--yellow);
+}
+.power-menu-popup .button.signout .label {
+	color: var(--teal);
+}
+.cava-widget {
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: var(--surface1);
+}
+/*MEMORY WIDGET*/
+.memory-widget {
+    padding: 0;
+    padding-left: 0px;
+    padding-right: 8px;
+    background-color: var(--surface1);
+}
+.memory-widget .label {
+    color: var(--text);
+    font-size: 13px;
+    padding-left: 7px;
+}
+.memory-widget .icon{
+    color: var(--text);
+    margin-bottom: 1px;
+    font-size: 14px;
+}
+/*CPU WIDGET*/
+.cpu-widget {
+    padding: 0;
+    padding-left: 8px;
+    padding-right: 11px;
+    background-color: var(--surface1);
+}
+.cpu-widget .label {
+    font-size: 14px;
+    padding-left: 6px;
+}
+.cpu-widget .icon{
+    color: var(--text);
+    font-size: 15px;
+}
+/*BATTERY WIDGET*/
+.battery-widget {
+    padding: 0;
+    padding-left: 4px;
+    padding-right: 10px;
+    background-color: var(--surface1);
+}
+.battery-widget .label {
+    color: var(--text);
+    font-size: 14px;
+    padding-left: 6px;
+}
+/*SYSTRAY WIDGET*/
+.systray {
+    padding: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: var(--surface1);
+}
+.systray .pinned-container {
+    background: transparent;
+}
+.systray .button {
+    color: var(--text);
+    background: transparent;
+    border-radius: 4px;
+    padding: 2px 2px;
+}
+.systray .button:hover {
+    color: var(--text);
+    background: transparent;
+}
+.systray .unpinned-visibility-btn {
+    color: var(--text);
+    border-radius: 4px;
+    height: 20px;
+    width: 16px;
+}
+/*NOTIFICATIONS*/
+.notification-widget {
+    padding: 0px;
+    padding-left: -1px;
+    padding-right: -1px;
+    background-color: var(--surface1);
+}
+.notification-widget .icon {
+    color: var(--text);
+    font-size: 13px;
+    padding-right: 5px;
+}
+.notification-widget .label {
+    font-size: 13px;
+}
+.glazewm-workspaces {
+    padding: 0px;
+    padding-left: -4px;
+    padding-right: -7px;
+    background: var(--surface1);
+}
+.glazewm-workspaces:hover {
+    border: 1.5px solid #a6e3a1;
+}
+.glazewm-workspaces .icon .label {
+    color: var(--text);
+    font-size: 10px;
+}
+.glazewm-workspaces .ws-btn {
+    color: var(--text);
+    font-size: 14px;
+    background-color: transparent;
+    border: none;
+    padding: 0px 5px 0px 5px;
+    margin: 0 3px 0 0px;
+}
+.glazewm-workspaces .ws-btn.active_populated {
+    color: var(--surface1);
+    background-color: #B5F2B1;
+    border-radius: 1px;
+}
+.glazewm-workspaces .ws-btn.active_empty {
+    color: var(--surface1);
+    background-color: var(--text);
+    border-radius: 1px;
+}
+/* WIFI Setting */
+.wifi-widget .icon{
+    font-size: 15px;
+    color: var(--text);
+    background: var(--surface1);
+    padding-left: 4px;
+    padding-top: 1px;
+    padding-right: 4px;
+}
+.wifi-widget {
+	background: var(--surface1);
+}
+.wifi-widget .wifi-menu:hover {
+    border: 1.5px solid #a6e3a1;
+}
+.wifi-widget .widget-container {
+    color: var(--text)
+}
+.wifi-widget .widget-container .label {
+    color: var(--text)
+}
+.wifi-widget .widget-container .label.alt {
+    color: var(--text)
+}
+.wifi-widget .widget-container .icon {
+    color: var(--text)
+}
+
+.wifi-menu {
+    background-color: var(--surface1);
+    max-height: 350px;
+    min-height: 375px;
+    min-width: 375px;
+}
+
+.wifi-menu .progress-bar {
+    max-height: 0px;
+}
+
+.wifi-menu .progress-bar::chunk {
+    background-color: var(--text);
+}
+
+.wifi-menu .header {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 15px;
+    background-color: var(--surface1);
+    color: var(--text);
+}
+
+.wifi-menu .error-message {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 2px;
+    padding: 12px;
+    background-color: var(--red);
+    color: var(--base);
+}
+
+.wifi-menu .wifi-list {
+    background-color: var(--surface1);
+    margin-right: 3px;
+}
+
+.wifi-menu .wifi-item {
+    min-height: 35px;
+    padding: 4px 12px;
+    margin: 0px 5px;
+}
+
+.wifi-menu .wifi-item:hover {
+    background-color: #202523;
+    border-radius: 0px;
+}
+
+.wifi-menu .wifi-item[active=true] {
+    background-color: #222a26;
+    font-size: 14px;
+    border-radius: 0px;
+    min-height: 90px;
+}
+
+.wifi-menu .wifi-item .icon {
+    font-family: 'Segoe Fluent Icons';
+    font-size: 26px;
+    margin-right: 10px;
+    color: var(--text)
+}
+
+.wifi-menu .wifi-item .name {
+    font-weight: bold;
+    color: #E7FFE5;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.wifi-menu .wifi-item .password {
+	font-family: 'Segoe UI';
+    background-color: transparent;
+    font-size: 14px;
+    padding: 2px, 10px;
+    border-radius: 0px;
+    color: var(--text)
+}
+
+.wifi-menu .wifi-item .status {
+    color: var(--text);
+    font-size: 14px;
+}
+
+.wifi-menu .wifi-item .strength {
+    font-size: 13px;
+    color: var(--text)
+}
+
+.wifi-menu .wifi-item .controls-container {
+    padding-top: 8px;
+}
+
+.wifi-menu .wifi-item .connect {
+    background-color: #3a4f3f72;;
+    padding: 6px 20px;
+    border-radius: 0px;
+    border: none;
+    font-size: 14px;
+    color: var(--text);
+}
+
+.wifi-menu .wifi-item .connect:hover {
+    background-color: #454d48;
+}
+
+.wifi-menu .wifi-item .connect:pressed {
+    background-color: #242b28;
+}
+
+.wifi-menu .footer {
+    font-size: 12px;
+    font-weight: 600;
+    padding: 12px;
+    margin-top: 2px;
+	background-color: var(--surface1);;
+    color: var(--text);
+}
+
+.wifi-menu .footer .settings-button {
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    padding: 0 2px;
+    min-width: 26px;
+    min-height: 26px;
+    color: var(--text);
+}
+
+.wifi-menu .footer .refresh-icon {
+    font-family: 'Segoe Fluent Icons';
+    background-color: transparent;
+    border: none;
+    min-width: 26px;
+    min-height: 26px;
+    color: var(--text);
+}
+
+.wifi-menu .footer .refresh-icon:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 0px;
+}
+
+.gpu-widget {
+    font-size: 13px;
+    background-color: var(--surface1);
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.gpu-widget .label {
+    font-size: 14px;
+}
+
+.gpu-widget .widget-container .icon {
+    font-size: 15px;
+    padding-right: 6px;
+    color: var(--text);
+}
