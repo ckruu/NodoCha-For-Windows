@@ -3,19 +3,14 @@
 <img src="./Logo/nodocha logo.png" height="300" alt="TUI-Cha Banner" />
 <br>
 
-# NodoCha For Windows
+# NodoCha Windows Setup
 A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-ON!, carefully crafted to match her gentle tone and personality.
 
-##Preview
-![desktop]
+[Windhawk Mods](#windhawk-mods) •
+[YASB](#yasb) •
+[Third-party Apps](#third-party-apps) •
 
-## Navigation
-- [🦅 Windhawk Mods](#windhawk-mods-lists-and-previews) 
-- [🪟 Third Party App Themes](#third-party-apps-themes)
-- [🖌️ Stylus Config](#stylus-config)
-- [🖼️ Static Wallpapers](#static-wallpapers)
-- [📼 Animated Wallpapers](#animated-wallpapers)
-- [📊 Feature Status](#feature-status)
+</div>
 
 ## Feature List
 - Matching themes across apps and bars
