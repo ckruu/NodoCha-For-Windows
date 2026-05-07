@@ -12,7 +12,7 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 
 </div>
 
-<div align="center">
+<div>
 
 ### Preview
 <table>
@@ -35,10 +35,11 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 - Themed Windows Lockscreen
 
 #### Windhawk Mods
-![Lockscreen](./Mod%20Previews/Lockscreens.png)
-- Lockscreen Left Aligned [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt)
-- Lockscreen Right Aligned [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
-> Fork Windows 11 Start menu styler and change all the includes to LockApp.exe
+#### 1. Lockscreen Styler (Start Menu Fork)
+> Currently only on the left side. This font are the fonts shown in the preview, if you wish to use another font, just change it on windhawk style.
+
+[📜 Config](./Windhawk/Lockscreen.txt) • [🔠 Quinquefive - Clock Font](https://ggbot.itch.io/quinquefive-font) • [🔠 Pixelify Sans - Date Font](https://fonts.google.com/specimen/Pixelify+Sans).
+
 
 ![Windhawk mods](./Mod%20Previews/mods-banner.png)
 - Windows 11 Notification Center Styler [⚙️ Config](./Mods/notification.txt)
