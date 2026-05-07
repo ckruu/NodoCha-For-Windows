@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img src="./Logo/nodocha logo.png" height="300" alt="TUI-Cha Banner" />
+<img src="./Logo/nodocha logo.png" height="260" alt="NodoCha Banner" />
 <br>
 
 # NodoCha Windows Setup
@@ -8,20 +8,26 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 
 [Windhawk Mods](#windhawk-mods) •
 [YASB](#yasb) •
-[Third-party Apps](#third-party-apps) •
+[Third-party Apps](#third-party-apps)
 
 </div>
 
-## Feature List
+<div align="center">
+<br>
+    <img src="./Screenshots/S1.png" height="260" alt="Preview 1" />
+    <img src="./Screenshots/S2.png" height="260" alt="Preview 2" />
+    <img src="./Screenshots/S3.png" height="260" alt="Preview 3" />
+    <img src="./Screenshots/S4.png" height="260" alt="Preview 4" />
+    <img src="./Screenshots/S5.png" height="260" alt="Preview 5" />
+<br>
+
+#### Features
 - Matching themes across apps and bars
 - Themed Windows UI such as Notification Toast, Notification center, etc
-- Animated Wallpaper and Static Wallpaper
+- Fully Keyboard driven (No start menu and taskbar)
 - Themed Windows Lockscreen
-- Start Menu completely disabled
-- Completely hidden top Windows taskbar
-- Stylized Lockscreen
 
-## Windhawk Mods Lists and Previews
+#### Windhawk Mods
 ![Lockscreen](./Mod%20Previews/Lockscreens.png)
 - Lockscreen Left Aligned [⚙️ Left Aligned Config](./Mods/Lockscreen-left.txt)
 - Lockscreen Right Aligned [⚙️ Right Aligned Config](./Mods/Lockscreen-right.txt)
