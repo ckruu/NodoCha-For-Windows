@@ -37,23 +37,35 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 #### Windhawk Mods
 #### 1. Lockscreen Styler (Start Menu Fork)
 > Currently only on the left side. This font are the fonts shown in the preview, if you wish to use another font, just change it on windhawk style.
-
 [📜 Config](./Windhawk/Lockscreen.txt) • [🔠 Quinquefive - Clock Font](https://ggbot.itch.io/quinquefive-font) • [🔠 Pixelify Sans - Date Font](https://fonts.google.com/specimen/Pixelify+Sans).
 
+#### 2. Windows 11 Notification Center Styler
+[ℹ️ Mod Details](https://windhawk.net/mods/windows-11-notification-center-styler) • [📜 Config](./Windhawk/NCenter.txt)
 
-![Windhawk mods](./Mod%20Previews/mods-banner.png)
-- Windows 11 Notification Center Styler [⚙️ Config](./Mods/notification.txt)
-- Windows 11 Start Menu Styler [⚙️ Config](./Mods/start.txt) (This will disable your start menu, but not the search bar)
-- Windows 11 Taskbar Styler [⚙️ Config](./Mods/taskbar.txt) (This will make your taskbar invisible)
-- Notification Placement [⚙️ Config](./Mods/placement.txt)
-- Taskbar Height and Icon Size [⚙️ Config](./Mods/taskbariconsize.txt) (This will make your taskbar invisible)
+#### 3. Windows Notification Placement
+> Will mess up when used in diffrent DPI and resolution.
+[ℹ️ Mod Details](https://windhawk.net/mods/notifications-placement) • [📜 Config](./Windhawk/NPlacement.txt)
 
-### Other Mods
-- Remove Command Bar
-- Disable Rounded Corners in Windows 11
-- No Focus Rectangle
-- Taskbar on Top For Windows 11
-- Taskbar Tray System Icon Tweaks
+#### 4. Windows 11 Taskbar Styler
+> This will make your taskbar completely invisible, also removing the start button.
+[ℹ️ Mod Details](https://windhawk.net/mods/windows-11-taskbar-styler) • [📜 Config](./Windhawk/Taskbar.txt)
+
+#### 5. Other Mods with no or minimal configurations
+- A bunch of Rectify Windhawk Mods
+- SecHealth UI, refer to [this](https://github.com/AromaKitsune/Windows-XAML-Styles/blob/main/styles/WindowsSecurity.yaml)
+- [Block start menu and hosts](https://windhawk.net/mods/block-windows-startmenu-and-hosts)
+- [Disable rounded corners in Windows 11](https://windhawk.net/mods/disable-rounded-corners)
+- [Disable taskbar thumbnails](https://windhawk.net/mods/taskbar-thumbnails)
+- [Explorer font changer](https://windhawk.net/mods/explorer-font-changer)
+- [Hide search bar](https://windhawk.net/mods/hide-search-bar)
+- [Invisible window borders](https://windhawk.net/mods/invisible-borders)
+- [No focus rectangle](https://windhawk.net/mods/no-focus-rectangle)
+- [Remove command bar](https://windhawk.net/mods/remove-command-bar)
+- [Taskbar height and icon size](https://windhawk.net/mods/taskbar-icon-size) - Set the value of everything to 1.
+- [Taskbar on top for Windows 11](https://windhawk.net/mods/taskbar-on-top)
+- [Taskbar tray system icon tweaks](https://windhawk.net/mods/taskbar-tray-system-icon-tweaks)
+- [UXTheme hook](https://windhawk.net/mods/uxtheme-hook) - Optional, if you want to use custom themes.
+- [Windows 11 Command bar](https://windhawk.net/mods/win7-command-bar)
 
 ## Third Party Apps Themes
 #### GlazeWM
