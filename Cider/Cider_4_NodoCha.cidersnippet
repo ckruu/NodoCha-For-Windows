@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cider-css-snippet>
+    <name>Cider 4 NodoCha</name>
+    <description></description>
+    <css><![CDATA[/* 1. Main Transparency & Square Mandate */
+#app, .app-root, .root-layout-container, .new-shell, .new-shell-content, 
+.ns-split-view, .new-shell-page-container, .q-layout, .q-page-container, 
+.q-page, .main-container, .ns-sidebar, div.color-bloom.loaded {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+div.color-bloom.loaded {
+    display: none !important;
+}
+
+* {
+    box-shadow: none !important;
+}
+
+
+
+/* 3. Fix the 'Crashing' Text Readability */
+/* This ensures the player text is always clear */
+.lcd-player-top, .lcd-player-bottom, .playback-bar {
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5); /* Adds a faint shadow to text */
+}
+
+
+/* 4. Remove the muddy viewport glaze */
+.page-viewport-glaze {
+    display: none !important;
+}]]></css>
+    <createdBy>User</createdBy>
+    <version>1.0</version>
+</cider-css-snippet>
