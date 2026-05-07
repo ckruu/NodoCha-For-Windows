@@ -65,26 +65,26 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 
 ## Third Party Apps
 #### GlazeWM
-A custom [🪟 GlazeWM](https://github.com/glzr-io/glazewm) [🎨 Config](./Third%20Party%20Apps/glazewm/config.yaml)
+- A custom [🪟 GlazeWM](https://github.com/glzr-io/glazewm) [🎨 Config](./Third%20Party%20Apps/glazewm/config.yaml)
 
 #### YASB
 - [📊 YASB](https://github.com/amnweb/yasb) with custom [⚙️ Config](./yasb/config.yaml) and [🎨 Styles](./yasb/styles.css)
 
 #### Tacky-borders
-[📏 Tacky Borders](https://github.com/lukeyou05/tacky-borders) - A custom border for Windows 11, with a custom [🎨 Config](./Third%20Party%20Apps/tacky-borders/config.yaml)
+- [📏 Tacky Borders](https://github.com/lukeyou05/tacky-borders) - A custom border for Windows 11, with a custom [🎨 Config](./Third%20Party%20Apps/tacky-borders/config.yaml)
 
 #### Nilesoft Shell
-Get [📬 Nilesoft Shell](https://nilesoft.org/) • With [🎨 Theme](./Desktop/Flow%20Launcher/theme.nss).
+- Get [📬 Nilesoft Shell](https://nilesoft.org/) • With [🎨 Theme](./Desktop/Flow%20Launcher/theme.nss).
 
 #### Vesktop (Discord)
-A custom modification of [📬 System24](https://github.com/refact0r/system24) theme.
+- A custom modification of [📬 System24](https://github.com/refact0r/system24) theme.
 
 #### Cider
 - [🍸 Cider](https://cider.sh/) with [📜 Unround Everything](./Cider/Unround_Everything.cidersnippet) • [📜 Cider v4 NodoCha](./Cider/Cider_4_NodoCha.cidersnippet) • [📜 Hide Scrollbars](./Cider/Hide_Scollbars.cidersnippet) - Set the accent color to , and the tint color to .
 > This CSS was currently only tested with Cider v4 Beta, experiences may vary on other versions.
 
 #### VS Code
-[🎨 Theme](./VS%20Code/NodoCha.json) running on [VS Code](https://code.visualstudio.com/download)
+- [🎨 Theme](./VS%20Code/NodoCha.json) running on [VS Code](https://code.visualstudio.com/download)
 
 #### Windows Terminal
-Windows terminal with focus mode and [🎨 NodoCha](./Windhawk/WT.txt) theme.
+- Windows terminal with focus mode and [🎨 NodoCha](./Windhawk/WT.txt) theme.
