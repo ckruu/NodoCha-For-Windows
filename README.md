@@ -12,6 +12,9 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 
 </div>
 
+<div align="center">
+
+### Preview
 <table>
   <tr>
     <td><img src="./Screenshots/S1.png" alt="Preview 1"></td>
@@ -22,6 +25,8 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
     <td><img src="./Screenshots/S4.png" alt="Preview 4"></td>
   </tr>
 </table>
+
+</div>
 
 #### Features
 - Matching themes across apps and bars
