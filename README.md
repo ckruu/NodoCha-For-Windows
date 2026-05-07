@@ -36,19 +36,16 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 
 #### Windhawk Mods
 #### 1. Lockscreen Styler (Start Menu Fork)
-> Currently only on the left side. This font are the fonts shown in the preview, if you wish to use another font, just change it on windhawk style.
-[📜 Config](./Windhawk/Lockscreen.txt) • [🔠 Quinquefive - Clock Font](https://ggbot.itch.io/quinquefive-font) • [🔠 Pixelify Sans - Date Font](https://fonts.google.com/specimen/Pixelify+Sans).
+> [📜 Config](./Windhawk/Lockscreen.txt) • [🔠 Quinquefive - Clock Font](https://ggbot.itch.io/quinquefive-font) • [🔠 Pixelify Sans - Date Font](https://fonts.google.com/specimen/Pixelify+Sans) - Currently only on the left side. This font are the fonts shown in the preview, if you wish to use another font, just change it on windhawk style.
 
 #### 2. Windows 11 Notification Center Styler
-[ℹ️ Mod Details](https://windhawk.net/mods/windows-11-notification-center-styler) • [📜 Config](./Windhawk/NCenter.txt)
+> [ℹ️ Mod Details](https://windhawk.net/mods/windows-11-notification-center-styler) • [📜 Config](./Windhawk/NCenter.txt)
 
 #### 3. Windows Notification Placement
-> Will mess up when used in diffrent DPI and resolution.
-[ℹ️ Mod Details](https://windhawk.net/mods/notifications-placement) • [📜 Config](./Windhawk/NPlacement.txt)
+> [ℹ️ Mod Details](https://windhawk.net/mods/notifications-placement) • [📜 Config](./Windhawk/NPlacement.txt) - Will mess up when used in diffrent DPI and resolution.
 
 #### 4. Windows 11 Taskbar Styler
-> This will make your taskbar completely invisible, also removing the start button.
-[ℹ️ Mod Details](https://windhawk.net/mods/windows-11-taskbar-styler) • [📜 Config](./Windhawk/Taskbar.txt)
+> [ℹ️ Mod Details](https://windhawk.net/mods/windows-11-taskbar-styler) • [📜 Config](./Windhawk/Taskbar.txt) - This will make your taskbar completely invisible, also removing the start button.
 
 #### 5. Other Mods with no or minimal configurations
 - A bunch of Rectify Windhawk Mods
