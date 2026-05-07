@@ -7,7 +7,6 @@
 A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-ON!, carefully crafted to match her gentle tone and personality.
 
 [Windhawk Mods](#windhawk-mods) •
-[YASB](#yasb) •
 [Third-party Apps](#third-party-apps)
 
 </div>
@@ -64,7 +63,7 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 - [UXTheme hook](https://windhawk.net/mods/uxtheme-hook) - Optional, if you want to use custom themes.
 - [Windows 11 Command bar](https://windhawk.net/mods/win7-command-bar)
 
-## Third Party Apps Themes
+## Third Party Apps
 #### GlazeWM
 A custom [🪟 GlazeWM](https://github.com/glzr-io/glazewm) [🎨 Config](./Third%20Party%20Apps/glazewm/config.yaml)
 
