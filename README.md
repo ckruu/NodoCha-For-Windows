@@ -1,3 +1,7 @@
+<div align="center">
+<br>
+<img src="./Logo/nodocha logo.png" width="800" alt="TUI-Cha Banner" />
+<br>
 # NodoCha For Windows
 A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-ON!, carefully crafted to match her gentle tone and personality.
 
