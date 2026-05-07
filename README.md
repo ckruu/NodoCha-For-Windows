@@ -12,12 +12,16 @@ A calm, greenish theme inspired by my favorite character, Nodoka Manabe from K-O
 
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 10px; justify-items: center;">
-    <img src="./Screenshots/S1.png" height="260" alt="Preview 1" />
-    <img src="./Screenshots/S2.png" height="260" alt="Preview 2" />
-    <img src="./Screenshots/S3.png" height="260" alt="Preview 3" />
-    <img src="./Screenshots/S4.png" height="260" alt="Preview 4" />
-</div>
+<table>
+  <tr>
+    <td><img src="./Screenshots/S1.png" alt="Preview 1"></td>
+    <td><img src="./Screenshots/S2.png" alt="Preview 2"></td>
+  </tr>
+  <tr>
+    <td><img src="./Screenshots/S3.png" alt="Preview 3"></td>
+    <td><img src="./Screenshots/S4.png" alt="Preview 4"></td>
+  </tr>
+</table>
 
 #### Features
 - Matching themes across apps and bars
